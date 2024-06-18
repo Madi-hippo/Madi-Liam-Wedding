@@ -1,0 +1,40 @@
+h1 {
+        font-size:40px;
+        background-image: linear-gradient(to right, #FF0000, #ffa500, #ffe603, #3eff2d, #23bdff, #a965ff, #ff00e5);
+       color: transparent;
+        -webkit-background-clip: text;
+        display: inline-block;
+        margin-bottom: 2rem;
+        font-family: cursive;}
+
+h2{
+    font-size:40px;
+        background-image: linear-gradient(to right, #FF0000, #ffa500, #ffe603, #3eff2d, #23bdff, #a965ff, #ff00e5);
+       color: transparent;
+        -webkit-background-clip: text;
+        display: inline-block;
+        margin-bottom: 2rem;
+        font-family: cursive;}
+
+h3{
+    font-size: 40px;
+    color:#FF0000;
+    font-family: cursive;}
+
+
+
+
+body{
+    background-color: #272727;
+    align-items: center;
+    text-align: center;}
+
+p{
+        font-size: 24px;
+        color: #ffffff;
+        font-family: cursive;}
+
+a{
+    font-size: 24px;
+        color: #ffffff;
+        font-family: cursive;}
