@@ -5,7 +5,7 @@ h1 {
         -webkit-background-clip: text;
         display: inline-block;
         margin-bottom: 2rem;
-        font-family: fantasy;}
+        font-family: georgia;}
 
 h2{
     font-size:40px;
@@ -14,12 +14,12 @@ h2{
         -webkit-background-clip: text;
         display: inline-block;
         margin-bottom: 2rem;
-        font-family: fantasy;}
+        font-family: georgia;}
 
 h3{
     font-size: 35px;
     color:#FF0000;
-    font-family:fantasy;}
+    font-family:georgia;}
 
 
 
@@ -32,9 +32,9 @@ body{
 p{
         font-size: 24px;
         color: #ffffff;
-        font-family: fantasy;}
+        font-family: georgia;}
 
 a{
     font-size: 24px;
         color: #ffffff;
-        font-family: fantasy;}
+        font-family: georgia;}
