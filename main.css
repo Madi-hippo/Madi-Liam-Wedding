@@ -5,7 +5,7 @@ h1 {
         -webkit-background-clip: text;
         display: inline-block;
         margin-bottom: 2rem;
-        font-family: brush script;}
+        font-family: cambria;}
 
 h2{
     font-size:40px;
@@ -14,12 +14,12 @@ h2{
         -webkit-background-clip: text;
         display: inline-block;
         margin-bottom: 2rem;
-        font-family: indie flower;}
+        font-family: cambria;}
 
 h3{
     font-size: 35px;
     color:#FF0000;
-    font-family: indie flower;}
+    font-family: cambria;}
 
 
 
@@ -32,9 +32,9 @@ body{
 p{
         font-size: 24px;
         color: #ffffff;
-        font-family: indie flower;}
+        font-family: cambria;}
 
 a{
     font-size: 24px;
         color: #ffffff;
-        font-family: indie flower;}
+        font-family: cambria;}
