@@ -29,7 +29,8 @@ body{
     align-items: center;
     text-align: center;
         padding-left:auto;
-        padding-right:auto;}
+        padding-right:auto;
+        padding-bottom:50px;}
 
 p{
         font-size: 24px;
