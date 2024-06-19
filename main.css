@@ -40,3 +40,7 @@ a{
     font-size: 24px;
         color: #ffffff;
         font-family: georgia;}
+
+.responsive{
+        width:100%;
+        height:auto;}
